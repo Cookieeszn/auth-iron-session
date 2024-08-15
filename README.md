@@ -75,3 +75,19 @@ Create a `.env` file in the `server` directory to store your environment variabl
   ```bash
   SESSION_SECRET=your-session-secret
   MONGO_URI=your-mongodb-uri
+  ```
+
+### Learn More
+
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [Node.js Documentation](https://nodejs.org/en/docs/)
+- [iron-session Documentation](https://www.npmjs.com/package/iron-session)
+
+### Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
